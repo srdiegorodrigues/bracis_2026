@@ -1,0 +1,17 @@
+demandas.txt
+*.docx
+*.pdf
+diabetes/
+cancer/
+artigos/
+archived/
+readme.md
+tutoriais/
+security/
+titanic/
+vinhos/
+*.zip
+*.rar
+acidentes20*.*
+valores_atributos
+dataset_originais
