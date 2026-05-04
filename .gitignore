@@ -5,7 +5,6 @@ diabetes/
 cancer/
 artigos/
 archived/
-readme.md
 tutoriais/
 security/
 titanic/
@@ -15,3 +14,8 @@ vinhos/
 acidentes20*.*
 valores_atributos
 dataset_originais
+anotations.md
+correcoes.md
+old_readme.md
+*.txt
+df_completo_01_maisTratamento.csv
