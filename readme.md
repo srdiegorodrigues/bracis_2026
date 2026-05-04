@@ -169,13 +169,3 @@ holidays
 ## Reprodutibilidade
 
 Todos os modelos utilizam `RANDOM_STATE = 42`. O pipeline de pré-processamento (scaler e encoder) é ajustado exclusivamente sobre o conjunto de treino e aplicado por transformação ao conjunto de teste, garantindo integridade da avaliação temporal.
-
----
-
-## Referências
-
-- Lundberg, S.M., Lee, S.I. (2017). A unified approach to interpreting model predictions. *NeurIPS*.
-- Prokhorenkova et al. (2018). CatBoost: unbiased boosting with categorical features. *NeurIPS*.
-- Breiman, L. (2001). Random forests. *Machine Learning*, 45(1), 5–32.
-- Polícia Rodoviária Federal: [Dados Abertos da PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
-- DNIT: [Controle de Velocidade — Dados Abertos](https://servicos.dnit.gov.br/dadosabertos/dataset/controle-de-velocidade)
